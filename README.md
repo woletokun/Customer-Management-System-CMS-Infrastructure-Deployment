@@ -17,6 +17,8 @@ Middleware integration (WSO2)
 Operational stability and issue resolution
 
 ***📊 🧱 ARCHITECTURE DIAGRAM
+
+
                         ┌────────────────────────────┐
                         │         End Users          │
                         │   (Web / Internal Apps)    │
@@ -52,6 +54,8 @@ Operational stability and issue resolution
         │ Backup & Disaster Recovery                           │
         │ Scheduled Backups + Replication Failover             │
         └──────────────────────────────────────────────────────┘
+
+        
 
 ***🔄 🔁 ARCHITECTURE FLOW
 
